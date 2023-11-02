@@ -1,0 +1,11 @@
+CMD:tpplayercor(playerid,params[]){ // команду поставьте какая вашей душе угодна
+    new giveplayerid,Float:xa,Float:ya,Float:za,string[128]; // Добавим несколько переменных для работы
+    if(sscanf(params,"up<,>fff",giveplayerid,xa,ya,za))
+        return SendClientMessage(playerid, COLOR_WHITE, "Введите: /tpplayercor <id> <x,y,z>"); // Если не правильно ввели
+
+    if (GetPlayerState(playerid) == 2) SetVehiclePos(GetPVarInt(playerid,"VehicleEnters"), xa, ya, za); // Чтобы и тачку тпшило если игрок в ней был
+    else SetPlayerPos(giveplayerid, xa, ya, za); // Если он был пешком то только его
+    format(string, sizeof(string), "Вы были телепортированы администратора по координатам {FFFFFF}X:%f, Y:%f, Z:%f",xa,ya,za); // Напомним балбесу, что он тпхнулся
+    SendClientMessage(playerid, COLOR_GREY, string); // покажем ему сообщение
+    return true;
+}

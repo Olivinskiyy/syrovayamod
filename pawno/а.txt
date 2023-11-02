@@ -1,0 +1,28 @@
+	// --------------- Автобусы
+	AddStaticVehicleEx(418,758.8998,723.5314,12.2439,248.7655,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 1
+	AddStaticVehicleEx(418,757.3745,719.7014,12.1885,249.3062,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 2
+	AddStaticVehicleEx(418,755.6907,715.4114,12.1333,248.9229,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 3
+	AddStaticVehicleEx(418,754.1324,711.1880,12.0992,249.3299,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 4
+	AddStaticVehicleEx(418,752.6511,707.2150,12.0903,248.8002,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 5
+	AddStaticVehicleEx(418,750.8207,702.5714,12.0930,248.1884,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 6
+	AddStaticVehicleEx(418,749.1871,698.3358,12.0932,249.0095,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 7
+	AddStaticVehicleEx(418,747.5515,694.0026,12.0930,249.3973,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 8
+	AddStaticVehicleEx(418,745.9255,689.8022,12.0931,249.8988,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 9
+	AddStaticVehicleEx(418,744.3026,685.6509,12.0931,249.3905,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 10
+	AddStaticVehicleEx(418,742.6512,681.3754,12.0930,249.4450,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 11
+	AddStaticVehicleEx(418,741.0107,677.0425,12.0931,249.4603,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 12
+	AddStaticVehicleEx(418,739.3386,672.7777,12.0929,249.4026,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 13
+	AddStaticVehicleEx(418,737.7796,668.5155,12.0930,249.2589,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 14
+	AddStaticVehicleEx(418,736.0520,663.8519,12.0930,250.1295,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 15
+	AddStaticVehicleEx(418,734.3118,659.4240,12.0928,249.0372,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 16
+	AddStaticVehicleEx(418,732.4960,654.7409,12.0930,249.3797,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 17
+	AddStaticVehicleEx(418,730.8508,650.4247,12.0930,249.0664,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 18
+	AddStaticVehicleEx(418,729.2156,645.9833,12.0930,249.3153,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 19
+	AddStaticVehicleEx(418,727.4211,641.1423,12.0930,249.6270,6,1, spawn_time, 0, VEHICLE_ACTION_TYPE_BUS_DRIVER); // Маршрутка 20
+
+	// --------------- Механики
+	CreateVehicle(525,1856.6643,-106.4669,15.5701,205.9911,1,1, spawn_time, 0, VEHICLE_ACTION_TYPE_MECHANIC); // Механики 1
+	CreateVehicle(525,1846.6710,-111.2327,15.5693,205.0836,1,1, spawn_time, 0, VEHICLE_ACTION_TYPE_MECHANIC); // Механики 2
+	CreateVehicle(525,1836.6302,-116.0337,15.5716,205.5031,1,1, spawn_time, 0, VEHICLE_ACTION_TYPE_MECHANIC); // Механики 3
+	CreateVehicle(525,1826.5474,-120.8417,15.5719,205.3838,1,1, spawn_time, 0, VEHICLE_ACTION_TYPE_MECHANIC); // Механики 4
+	CreateVehicle(525,1816.5082,-125.6350,15.5664,205.5100,1,1, spawn_time, 0, VEHICLE_ACTION_TYPE_MECHANIC); // Механики 5

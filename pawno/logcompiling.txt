@@ -1,0 +1,15 @@
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : error 017: undefined symbol "D_ATUNE"
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : warning 215: expression has no effect
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : warning 215: expression has no effect
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : warning 215: expression has no effect
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : warning 215: expression has no effect
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : error 001: expected token: ";", but found ")"
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : error 029: invalid expression, assumed zero
+D:\Fenix Production\pawno\include\..\..\gamemodes\modules\systems\tuning_system\tuning.inc(3) : fatal error 107: too many error messages on one line
+
+Compilation aborted.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+4 Errors.
